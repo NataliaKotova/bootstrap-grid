@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.myBackground{
+  background:#eee2dc;
+}
+.myImage{
+  margin:auto;
+  width:20em;
+}
+.myPara{
+  font-family:Helvetica;
+  font-size:18px;
+}
+.fa-tree {
+  font-size:2em;
+}
