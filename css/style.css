@@ -3,6 +3,12 @@
   padding:0;
   box-sizing:border-box;
 }
+.row{
+  width:60%;
+}
+.myRow{
+  width:80%;
+}
 .myBackground{
   background:#eee2dc;
 }
